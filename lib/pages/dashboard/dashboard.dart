@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../constants/dummy_data.dart';
 import '../../core/provider/user_list_provider.dart';
-import '../../model/user_model.dart';
 import '../../core/provider/theme_provider.dart';
 import 'widgets/bar_charts.dart';
 import 'widgets/top_states.dart';
